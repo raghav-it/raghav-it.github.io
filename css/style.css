@@ -306,8 +306,9 @@ pre {
 }
 #fh5co-intro h1 {
   font-size: 72px;
-  color: #FC0101;
+  color: #ff1a1a;
   line-height: 1.2;
+  text-orientation: times;   
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro h1 {
