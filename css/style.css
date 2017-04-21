@@ -3,7 +3,7 @@
 
 FREE HTML5 TEMPLATE 
 DESIGNED & DEVELOPED by FREEHTML5.CO
-
+ 
 //////////////////////////////////////////////////////
 */
 @font-face {
@@ -14,7 +14,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-style: normal;
 }
 body {
-  /*background-color: #A7FCF3;*/
+  background-color: #A7FCF3;
   background-image: url("../images/background1.jpg");
   background-attachment:fixed;
   background-size: 100% 100%;
@@ -227,7 +227,7 @@ pre {
   margin-left: auto;
   margin-right: auto;
   width: 800px;
-  text-align: center;
+  text-align: right;
 }
 @media screen and (max-width: 992px) {
   #fh5co-main-nav ul {
@@ -277,8 +277,8 @@ pre {
   }
 }
 #fh5co-main-nav ul > li > a:hover, #fh5co-main-nav ul > li > a:active, #fh5co-main-nav ul > li > a:focus {
-  color: #7c7c7c;
-  border-bottom: 2px solid #1d2dfd;
+  color: #ffffff;
+  border-bottom: 2px solid #000000;
 }
 #fh5co-main-nav .fh5co-nav-call-to-action {
   position: absolute;
@@ -306,7 +306,7 @@ pre {
 }
 #fh5co-intro h1 {
   font-size: 72px;
-  color: #ff1a1a;
+  color: #000000;
   line-height: 1.2;
   text-orientation: times;   
 }
@@ -557,7 +557,7 @@ pre {
 }
 
 #fh5co-footer .fh5co-copyright {
-  color: #7b7b7b;
+  color: #ffffff;
   font-size: 15px;
 }
 
@@ -928,7 +928,7 @@ pre {
   line-height: 26px;
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #F90F00;
+  color: #000000;
 }
 .fh5co-uppercase-heading-sm.with-border {
   position: relative;
@@ -1065,7 +1065,7 @@ pre {
 
 }
 .progress-bar.progress-bar-default {
-  background: #ffff00;
+  background: #99ff33;
 }
 .progress-bar.progress-bar-success {
   background: #00e195;
@@ -1295,12 +1295,12 @@ a > img.fh5co-align-center {
   margin-right: 10px;
 }
 
-.fh5co-uppercase-heading-sm {
+/*.fh5co-uppercase-heading-sm {
   font-size: 14px;
   line-height: 26px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 3px;
-  color: #7b7b7b;
+  color: #000000;
 }
-
+*/
 /*# sourceMappingURL=style.css.map */
