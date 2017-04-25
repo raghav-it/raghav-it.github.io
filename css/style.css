@@ -14,7 +14,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-style: normal;
 }
 body {
-  background-color: #A7FCF3;
+  /*background-color: #99ccff;*/
   background-image: url("../images/background1.jpg");
   background-attachment:fixed;
   background-size: 100% 100%;
@@ -371,7 +371,7 @@ pre {
 #fh5co-work .fh5co-work-item .fh5co-overlay-text h2 {
   padding: 0 !important;
   margin: 0 !important;
-  color: #FF5733;
+  color: #000099;
   font-size: 18px !important;
   line-height: 20px !important;
 }
@@ -387,7 +387,7 @@ pre {
   list-style: none;
   display: inline;
   font-size: 11px;
-  color: #FCFCFC;
+  color: #000000;
 }
 #fh5co-work .fh5co-work-item .fh5co-overlay-text .fh5co-categories li::after {
   content: ",";
@@ -545,6 +545,8 @@ pre {
   }
 }
 #fh5co-footer .fh5co-footer-social li a {
+  target-name:new;
+  target-new:tab;
   /*color: #7c7c7c;*/
   padding: 4px 0;
   margin: 0 10px 0 0;
