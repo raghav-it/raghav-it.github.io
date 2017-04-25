@@ -1,59 +1,20 @@
 
 TITLE: 
-Work - Responsive Free HTML5 template
+portfolio - Raghav Chirumamilla
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
+Raghava Chirumamilla
 
 
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-Pldme for Photos
-http://pldme.com/
-
-Unsplash for Photos
-http://unsplash.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Owl Carousel
-http://owlgraphic.com/owlcarousel/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Themify Icons
-http://themify.me/themify-icons
-
-Icomoon Icons
-https://icomoon.io/
-
-Easy Responsive Tabs
-Samson.Onna <Email : samson3d@gmail.com> 
-
-FastClick
-https://github.com/ftlabs/fastclick
-
-Google Map API
-https://developers.google.com/maps/?hl=en
+References:
 
 
+www.w3schools.com
 
-* Don't forget to share it with your friends. Thanks! :)
+www.free-css.com
+
+
+* Thanks! :)
 
 
 
